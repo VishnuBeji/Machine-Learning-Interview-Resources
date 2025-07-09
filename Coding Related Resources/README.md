@@ -2,11 +2,11 @@
 
 ### Graphs
  Pattern 1: DFS/BFS Traversal
- → Number of Islands
-→ Flood Fill
-→ Clone Graph
-→ Graph Valid Tree
-→ Course Schedule
+    → Number of Islands
+    → Flood Fill
+    → Clone Graph
+    → Graph Valid Tree
+    → Course Schedule
 
 Pattern 2: Shortest Path Algorithms
  → Dijkstra’s Algorithm
