@@ -1,84 +1,84 @@
+# Graphs
+
 ## Graphs
+ ### Pattern 1: DFS/BFS Traversal
+ - Number of Islands
+ - Flood Fill
+ - Clone Graph
+ - Graph Valid Tree
+ - Course Schedule
 
-### Graphs
- Pattern 1: DFS/BFS Traversal
-    → Number of Islands
-    → Flood Fill
-    → Clone Graph
-    → Graph Valid Tree
-    → Course Schedule
-
-Pattern 2: Shortest Path Algorithms
+### Pattern 2: Shortest Path Algorithms
  → Dijkstra’s Algorithm
 → Bellman-Ford
 → Shortest Path in a Grid
 → Network Delay Time
 → Cheapest Flights Within K Stops
 
-Pattern 3: Topological Sort
+### Pattern 3: Topological Sort
  → Course Schedule II
 → Alien Dictionary
 → Sequence Reconstruction
 → Minimum Height Trees
 → Task Scheduling
 
-Pattern 4: Cycle Detection
+### Pattern 4: Cycle Detection
  → Course Schedule
 → Graph Cycle Detection
 → Find if Path Exists in Graph
 → Redundant Connection
 → Minimum Edge to Add to Make Graph Strongly Connected
 
-Pattern 5: Connected Components
+### Pattern 5: Connected Components
  → Number of Connected Components in Graph
 → Friend Circles
 → Count Sub Islands
 → Graph Connectivity After Removing Edges
 → Maximum Area of Island
 
-Pattern 6: Minimum Spanning Tree
+### Pattern 6: Minimum Spanning Tree
  → Kruskal’s Algorithm
 → Prim’s Algorithm
 → Min Cost to Connect All Points
 → Connecting Cities With Minimum Cost
 → Redundant Connection II
 
-Pattern 7: Union-Find
+### Pattern 7: Union-Find
  → Redundant Connection
 → Number of Islands II
 → Accounts Merge
 → Friend Circles
 → Satisfiability of Equality Equations
 
-Pattern 8: Grid-Based Graph Problems
+### Pattern 8: Grid-Based Graph Problems
  → Number of Islands
 → Walls and Gates
 → Rotten Oranges
 → Shortest Path in Binary Matrix
 → Surrounded Regions
 
-Pattern 9: Graph Coloring
+### Pattern 9: Graph Coloring
  → Graph Coloring
 → Is Graph Bipartite?
 → Map Coloring
 → Partition to K Equal Sum Subsets
 → Scheduling With Constraints
 
-Pattern 10: Strongly Connected Components
+### Pattern 10: Strongly Connected Components
  → Course Schedule III
 → Kosaraju’s Algorithm Challenge
 → Tarjan’s Algorithm Challenge
 → Evaluate Division
 → Minimum Days to Disconnect
 
-Pattern 11: Eulerian & Hamiltonian Paths
+### Pattern 11: Eulerian & Hamiltonian Paths
  → Course Schedule IV
 → Find Itinerary
 → Hamiltonian Path in Directed Graph
 → Eulerian Circuit
 → Reconstruct Itinerary
 
-Pattern 12: Planets & Queries
+### Pattern 12: Planets & Queries
  → Dynamic Connectivity
 → Reachability Queries
 → Graph Connectivity via Snapshots
@@ -86,7 +86,7 @@ Pattern 12: Planets & Queries
 → Offline Query Processing
 
 
-### Strings
+## Strings
 
 ► Strings
  Pattern 1: KMP Algorithm
@@ -153,7 +153,7 @@ Pattern 9: DP on Intervals for Strings
 → Optimal Binary Search Tree
 
 
-### Dynamic Programming
+## Dynamic Programming
 
 ► Dynamic Programming
  Pattern 1: Fibonacci/Simple Recurrence
@@ -234,7 +234,7 @@ Pattern 11: Probability/Expectation DP
 → Candy Lottery
 
 
-### Trees
+## Trees
 
 ► Trees
  Pattern 1: Distance Between Nodes
@@ -294,7 +294,7 @@ Pattern 8: Tree Construction
 → Recover Binary Search Tree
 
 
-### Heap
+## Heap
 
 ► Heap
  Pattern 1: Top K Elements
@@ -340,7 +340,7 @@ Pattern 6: Heap-Based Game Theory
 → Game of Stones
 
 
-### Linked List
+## Linked List
 
 ► Linked List
  Pattern 1: Fast & Slow Pointers
